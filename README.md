@@ -1,6 +1,7 @@
 # Logistics Operations Database Generator
 
 A synthetic data generator that creates realistic, highly normalized transportation and supply chain datasets for SQL analytics practice, data science education, and operations research.
+If you prefer to download the dataset instead of running the script, you may find it [here](https://www.kaggle.com/datasets/yogape/logistics-operations-database).
 
 ## Overview
 
